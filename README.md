@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_960_720.jpg)](https://rishu-singh.herokuapp.com/)
+[![MasterHead](https://www.clariontech.com/hubfs/Top%208%20technologies%20transforming%20the%20future%20of%20web%20development.jpg)](https://rishu-singh.herokuapp.com/)
 <h1 align="center">Hi 👋, I'm Rishu Singh</h1>
 <h3 align="center">A passionate MERN Developer and Competitive Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
