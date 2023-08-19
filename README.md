@@ -10,13 +10,11 @@
 
 - 👯 I’m looking to collaborate on **javascript projects**
 
-- 👨‍💻 All of my projects are available at [https://rishu-singh.herokuapp.com/](https://rishu-singh.herokuapp.com/)
-
 - 💬 Ask me about **react, javascript, C++, C, node, socket, express, mongoDB, firebase, HTML, CSS.**
 
-- 📫 How to reach me **rishu04072001@gmail.com / 8853631554**
+- 📫 How to reach me **officialrishu4798@gmail.com / 8853631554**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yc3IqqBkWRp3ZYFbP6aMa6Rvzs1AXK7Y/view?usp=sharing](https://drive.google.com/file/d/1yc3IqqBkWRp3ZYFbP6aMa6Rvzs1AXK7Y/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1d_iayv7BhSqymSZrLHdxP1CXUl68P_PW/view)
 
 - ⚡ Fun fact **I am funny**
 
