@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rishusi28747612" target="blank"><img src="https://img.shields.io/twitter/follow/rishusi28747612?logo=twitter&style=for-the-badge" alt="rishusi28747612" /></a> </p>
 
-- 🌱 I’m currently learning **cloud computing and MERN**
+- 🌱 Trainee Associate @ **WESTERN UNION**
 
 - 👯 I’m looking to collaborate on **javascript projects**
 
