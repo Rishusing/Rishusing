@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/rishusi28747612" target="blank"><img src="https://img.shields.io/twitter/follow/rishusi28747612?logo=twitter&style=for-the-badge" alt="rishusi28747612" /></a> </p>
 
-- 🌱 Trainee Associate @ **WESTERN UNION**
+- 🌱 Trainee Associate Solution Engineer @ **WESTERN UNION**
 
-- 👯 I’m looking to collaborate on **javascript projects**
+- 👯 I’m looking to collaborate on **Javascript Projects (Full-Stack)**
 
 - 💬 Ask me about **react, javascript, C++, C, node, socket, express, mongoDB, firebase, HTML, CSS.**
 
