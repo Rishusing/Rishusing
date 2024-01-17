@@ -8,13 +8,13 @@
 
 - 🌱 Trainee Associate Solution Engineer @ **WESTERN UNION**
 
-- 👯 I’m looking to collaborate on **Javascript Projects (Full-Stack)**
+- 👯 I’m looking to collaborate on **Javascript Projects (MERN Stack)**
 
-- 💬 Ask me about **react, javascript, C++, C, node, socket, express, mongoDB, firebase, HTML, CSS.**
+- 💬 Ask me about **React, Javascript, C++, Node, Socket, Express, MongoDB, Firebase, HTML, CSS, Tibco BE, Tibco BW and Talend**
 
 - 📫 How to reach me **officialrishu4798@gmail.com / 8853631554**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1d_iayv7BhSqymSZrLHdxP1CXUl68P_PW/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1H8fd4QqzbTyHHX0DoUocIW-beXdVd-2n/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
