@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **officialrishu4798@gmail.com / 8853631554**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1H8fd4QqzbTyHHX0DoUocIW-beXdVd-2n/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OCUJD9SlPzTOsQNOwktyBoBO9G_9XaEY/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
