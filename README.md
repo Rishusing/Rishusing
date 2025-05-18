@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Javascript Projects (MERN Stack)**
 
-- 💬 Ask me about **React, Javascript, C++, Node, Socket, Express, MongoDB, Firebase, HTML, CSS, Tibco BE, Tibco BW and Talend**
+- 💬 Ask me about **React, Redux, Javascript, C++, Node, Socket, Express, MongoDB, Java, Spring boot, Firebase, HTML, CSS, Tibco BE, Tibco BW, and Talend**
 
 - 📫 How to reach me **officialrishu4798@gmail.com / 8853631554**
 
