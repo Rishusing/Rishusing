@@ -8,9 +8,9 @@
 
 - 🌱 Senior Trainee Associate Solution Engineer @ **WESTERN UNION**
 
-- 👯 I’m looking to collaborate on **Javascript Projects (MERN Stack)**
+- 👯 I’m looking to collaborate on **Java Projects (Java-Fullstack Stack)**
 
-- 💬 Ask me about **React, Redux, Javascript, C++, Node, Socket, Express, MongoDB, Java, Spring boot, Firebase, HTML, CSS**
+- 💬 Ask me about **React, Redux, Javascript, C++, Node, Socket, Express, MongoDB, Java, SpringBoot, Firebase, HTML, CSS**
 
 - 📫 How to reach me **rishusingh040701@gmail.com / 8853631554**
 
