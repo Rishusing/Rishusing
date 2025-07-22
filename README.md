@@ -1,6 +1,6 @@
 [![MasterHead](http://watzaoweb.com/wp-content/uploads/2022/07/website-design-company-in-yamuna-nagar.jpg)](https://rishu-singh.herokuapp.com/)
 <h1 align="center">Hi 👋, I'm Rishu Singh</h1>
-<h3 align="center">A passionate MERN Developer and Competitive Programmer</h3>
+<h3 align="center">A passionate Java-Fullstack Developer and Competitive Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishusing&label=Profile%20views&color=0e75b6&style=flat" alt="rishusing" /> </p>
 
@@ -10,11 +10,11 @@
 
 - 👯 I’m looking to collaborate on **Javascript Projects (MERN Stack)**
 
-- 💬 Ask me about **React, Redux, Javascript, C++, Node, Socket, Express, MongoDB, Java, Spring boot, Firebase, HTML, CSS, Tibco BE, Tibco BW, and Talend**
+- 💬 Ask me about **React, Redux, Javascript, C++, Node, Socket, Express, MongoDB, Java, Spring boot, Firebase, HTML, CSS**
 
-- 📫 How to reach me **officialrishu4798@gmail.com / 8853631554**
+- 📫 How to reach me **rishusingh040701@gmail.com / 8853631554**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LXU6j6tscui3z3AU5P41UxctjLSsL3-A/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HQ6KXhcvpQz3kgpvr_1_EKTEiOWNJWOb/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am funny**
 
